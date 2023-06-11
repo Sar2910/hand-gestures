@@ -1,0 +1,54 @@
+body
+{
+  color: white;
+  background: linear-gradient(darkviolet 25%, blue 75%);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading {
+  font-size: larger;
+  border-radius: 10px;
+  letter-spacing: 4px;
+  background: yellow;
+  width: 350px;
+  height: 55px;
+  padding-top: 2px;
+  color: blueviolet;
+  font-weight: bold;
+}
+
+label {
+  font-size: medium;
+  color: yellow;
+}
+
+.predic {
+  font-size: large;
+  border-radius: 10px;
+  background: yellow;
+  width: 150px;
+  height: 22px;
+  color: blueviolet;
+  font-weight: bold;
+}
